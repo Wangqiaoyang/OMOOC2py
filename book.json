@@ -5,7 +5,6 @@
     "pluginsConfig": {
         "disqus": {
             "shortName": "YZ_Qiaoyang",
-            "useIdentifier": false
         }
     }
 }
